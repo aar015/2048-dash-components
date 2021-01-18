@@ -1,0 +1,13 @@
+Package: dashTfeComponents
+Title: Dash Components to Render 2048 Game
+Version: 0.0.1
+Description: Dash Components to Render 2048 Game
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: https://github.com/aar015/dash-tfe-components
+BugReports: https://github.com/aar015/dash-tfe-components/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true

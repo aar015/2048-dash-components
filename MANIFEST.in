@@ -1,0 +1,7 @@
+include dash_tfe_components/dash_tfe_components.min.js
+include dash_tfe_components/dash_tfe_components.min.js.map
+include dash_tfe_components/metadata.json
+include dash_tfe_components/package-info.json
+include README.md
+include LICENSE
+include package.json
